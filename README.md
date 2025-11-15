@@ -1,8 +1,8 @@
 # 图册清单 Album-List-app
 ## 一款为自己设计的轻量管理每日工作的Todo工具
-# 工具更新日志
-![图片1](https://raw.githubusercontent.com/Mixiaxiaoyu/Album-List-app/main/1%20(1).png)
 
+![图片1](https://raw.githubusercontent.com/Mixiaxiaoyu/Album-List-app/main/1%20(1).png)
+# 工具更新日志
 本文件记录工具的版本迭代历史，包括各版本的发布日期及更新内容。
 
 | 日期       | 版本号   | 更新说明（中文）                                     | 更新说明（英文）                                         |
