@@ -16,6 +16,7 @@
 | 20251115 | 1.1.5    | 优化图片资源管理，提高加载速度                       | Optimize image resource management, improving loading speed. |
 | 20251115 | 1.1.6    | 增加双语支持                                         | Add bilingual support.                                   |
 | 20251115 | 1.1.7    | 修复历史档案的部分逻辑问题                           | Fix some logical issues in the historical archive.       |
+| 20251115 | 1.1.7 Mac1.0.0    | Mac版本正式上线，拥有Windows同款体验                        | Mac version officially released, with Windows same experience.      |
 
 ## 说明
 - 所有更新内容均同步支持中英文展示
